@@ -1,0 +1,4 @@
+Maca,1.5,100
+Banana,0.5,200
+Leite,3.0,50
+Sabao,3.0,3

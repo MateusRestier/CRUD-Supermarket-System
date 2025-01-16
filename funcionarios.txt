@@ -1,0 +1,3 @@
+Maria,Gerente,abcd
+Carlos,Caixa,1234
+Ana,Estoque,5678
